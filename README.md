@@ -50,3 +50,6 @@ To develop a deep learning model that can classify images into predefined catego
 - Final Softmax Output Layer
 
 ---
+
+#output
+![Image](https://github.com/user-attachments/assets/a655baa9-d4f6-4c6b-8414-fec5bbf98cce)
